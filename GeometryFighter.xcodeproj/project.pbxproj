@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		222EEE551FDF34BA00784BFF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222EEE541FDF34BA00784BFF /* AppDelegate.swift */; };
-		222EEE571FDF34BB00784BFF /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 222EEE561FDF34BB00784BFF /* art.scnassets */; };
 		222EEE591FDF34BB00784BFF /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222EEE581FDF34BB00784BFF /* GameViewController.swift */; };
 		222EEE5C1FDF34BB00784BFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222EEE5A1FDF34BB00784BFF /* Main.storyboard */; };
 		222EEE5E1FDF34BB00784BFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 222EEE5D1FDF34BB00784BFF /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		222EEE511FDF34BA00784BFF /* GeometryFighter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GeometryFighter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		222EEE541FDF34BA00784BFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		222EEE561FDF34BB00784BFF /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		222EEE581FDF34BB00784BFF /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		222EEE5B1FDF34BB00784BFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		222EEE5D1FDF34BB00784BFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				222EEE541FDF34BA00784BFF /* AppDelegate.swift */,
-				222EEE561FDF34BB00784BFF /* art.scnassets */,
 				222EEE581FDF34BB00784BFF /* GameViewController.swift */,
 				222EEE5A1FDF34BB00784BFF /* Main.storyboard */,
 				222EEE5D1FDF34BB00784BFF /* Assets.xcassets */,
@@ -126,7 +123,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				222EEE571FDF34BB00784BFF /* art.scnassets in Resources */,
 				222EEE611FDF34BB00784BFF /* LaunchScreen.storyboard in Resources */,
 				222EEE5E1FDF34BB00784BFF /* Assets.xcassets in Resources */,
 				222EEE5C1FDF34BB00784BFF /* Main.storyboard in Resources */,
