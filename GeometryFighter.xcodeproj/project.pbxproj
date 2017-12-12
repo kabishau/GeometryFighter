@@ -12,6 +12,7 @@
 		222EEE5C1FDF34BB00784BFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222EEE5A1FDF34BB00784BFF /* Main.storyboard */; };
 		222EEE5E1FDF34BB00784BFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 222EEE5D1FDF34BB00784BFF /* Assets.xcassets */; };
 		222EEE611FDF34BB00784BFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222EEE5F1FDF34BB00784BFF /* LaunchScreen.storyboard */; };
+		22CD6B031FDF53660042611F /* GeometryFighter.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 22CD6B021FDF53660042611F /* GeometryFighter.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		222EEE5D1FDF34BB00784BFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		222EEE601FDF34BB00784BFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		222EEE621FDF34BB00784BFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22CD6B021FDF53660042611F /* GeometryFighter.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = GeometryFighter.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		222EEE531FDF34BA00784BFF /* GeometryFighter */ = {
 			isa = PBXGroup;
 			children = (
+				22CD6B021FDF53660042611F /* GeometryFighter.scnassets */,
 				222EEE541FDF34BA00784BFF /* AppDelegate.swift */,
 				222EEE581FDF34BB00784BFF /* GameViewController.swift */,
 				222EEE5A1FDF34BB00784BFF /* Main.storyboard */,
@@ -126,6 +129,7 @@
 				222EEE611FDF34BB00784BFF /* LaunchScreen.storyboard in Resources */,
 				222EEE5E1FDF34BB00784BFF /* Assets.xcassets in Resources */,
 				222EEE5C1FDF34BB00784BFF /* Main.storyboard in Resources */,
+				22CD6B031FDF53660042611F /* GeometryFighter.scnassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
