@@ -3,7 +3,7 @@ import SceneKit
 
 class GameViewController: UIViewController {
     
-    // property that renders the cnotent of the SCNView on the display
+    // property that renders the content of the SCNView on the display
     var scnView: SCNView!
     
     // content nodes will be added to this scene as children
@@ -30,7 +30,9 @@ class GameViewController: UIViewController {
     }
     
     func setupScene() {
+        // blank instance of SCNScene
         scnScene = SCNScene()
+        // set this blank scene as the one for scnView to use
         scnView.scene = scnScene
     }
     
